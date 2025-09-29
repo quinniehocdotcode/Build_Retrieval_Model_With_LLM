@@ -1,0 +1,14 @@
+{
+  "dataset": "Ali-CCP CSV (merged skeleton+common)",
+  "n_items": 500,
+  "n_valid_users": 200,
+  "topk": 10,
+  "agg_mode": "topfreq",
+  "agg_topn": 5,
+  "trained": true,
+  "epochs": 100,
+  "batch_size": 256,
+  "lr": 2e-05,
+  "Recall@K_mean": 0.021490079365079365,
+  "NDCG@K_mean": 0.018982682432728316
+}

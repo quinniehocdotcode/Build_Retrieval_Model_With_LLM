@@ -1,0 +1,1 @@
+artifacts_trained\model_finetuned
