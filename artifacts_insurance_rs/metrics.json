@@ -1,0 +1,7 @@
+{
+  "n_items": 7,
+  "n_users": 20000,
+  "topk": 5,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "artifact_dir": "artifacts_insurance_rs"
+}
